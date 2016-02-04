@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">谭帅抢微信红包</string>
+    <string name="accessibility_description">启动微信抢红包服务</string>
+    <string name="buttonname">打开微信抢红包服务</string>
+
+</resources>
